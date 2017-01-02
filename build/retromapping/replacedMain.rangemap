@@ -1,43 +1,49 @@
 Symbol range map extraction starting
 Processing 4 files
-startProcessing "com\powereclipse\jwrutilities\Main.java" md5: 1db528e3da5ae00f73cd9ebc542f6b47
+startProcessing "com\powereclipse\jwrutilities\Main.java" md5: 817948e1a32fea81b3826e10de250364
 @|com\powereclipse\jwrutilities\Main.java|8|37|com.powereclipse.jwrutilities|package|com.powereclipse.jwrutilities|(file)
 Class Start: com.powereclipse.jwrutilities.Main
-   @|com\powereclipse\jwrutilities\Main.java|191|194|Mod|class|net.minecraftforge.fml.common.Mod
-   @|com\powereclipse\jwrutilities\Main.java|195|200|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
-   @|com\powereclipse\jwrutilities\Main.java|203|210|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
-   @|com\powereclipse\jwrutilities\Main.java|211|217|MOD_ID|field|com.powereclipse.jwrutilities.ModInfo|MOD_ID
-   @|com\powereclipse\jwrutilities\Main.java|219|223|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
-   @|com\powereclipse\jwrutilities\Main.java|226|233|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
-   @|com\powereclipse\jwrutilities\Main.java|234|242|MOD_NAME|field|com.powereclipse.jwrutilities.ModInfo|MOD_NAME
-   @|com\powereclipse\jwrutilities\Main.java|244|251|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
-   @|com\powereclipse\jwrutilities\Main.java|254|261|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
-   @|com\powereclipse\jwrutilities\Main.java|262|275|VERSION_BUILD|field|com.powereclipse.jwrutilities.ModInfo|VERSION_BUILD
-   @|com\powereclipse\jwrutilities\Main.java|276|288|dependencies|method|net.minecraftforge.fml.common.Mod|dependencies|()Ljava/lang/String;
-   @|com\powereclipse\jwrutilities\Main.java|291|298|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
-   @|com\powereclipse\jwrutilities\Main.java|299|311|DEPENDENCIES|field|com.powereclipse.jwrutilities.ModInfo|DEPENDENCIES
-   @|com\powereclipse\jwrutilities\Main.java|313|323|updateJSON|method|net.minecraftforge.fml.common.Mod|updateJSON|()Ljava/lang/String;
-   @|com\powereclipse\jwrutilities\Main.java|326|333|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
-   @|com\powereclipse\jwrutilities\Main.java|334|344|UpdateJSON|field|com.powereclipse.jwrutilities.ModInfo|UpdateJSON
-   @|com\powereclipse\jwrutilities\Main.java|359|363|Main|class|com.powereclipse.jwrutilities.Main
-   @|com\powereclipse\jwrutilities\Main.java|505|509|Main|class|com.powereclipse.jwrutilities.Main
-   @|com\powereclipse\jwrutilities\Main.java|376|386|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy
-   @|com\powereclipse\jwrutilities\Main.java|387|397|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
-   @|com\powereclipse\jwrutilities\Main.java|400|407|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
-   @|com\powereclipse\jwrutilities\Main.java|408|418|ServerSide|field|com.powereclipse.jwrutilities.ModInfo|ServerSide
-   @|com\powereclipse\jwrutilities\Main.java|420|430|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
-   @|com\powereclipse\jwrutilities\Main.java|433|440|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
-   @|com\powereclipse\jwrutilities\Main.java|441|451|ClientSide|field|com.powereclipse.jwrutilities.ModInfo|ClientSide
-   @|com\powereclipse\jwrutilities\Main.java|458|470|Mod.Instance|class|net.minecraftforge.fml.common.Mod.Instance
-   @|com\powereclipse\jwrutilities\Main.java|505|509|Main|class|com.powereclipse.jwrutilities.Main
-   @|com\powereclipse\jwrutilities\Main.java|510|518|instance|field|com.powereclipse.jwrutilities.Main|instance|
-   @|com\powereclipse\jwrutilities\Main.java|538|549|ProxyCommon|class|com.powereclipse.jwrutilities.common.ProxyCommon
-   @|com\powereclipse\jwrutilities\Main.java|538|549|ProxyCommon|class|com.powereclipse.jwrutilities.common.ProxyCommon
-   @|com\powereclipse\jwrutilities\Main.java|550|555|proxy|field|com.powereclipse.jwrutilities.Main|proxy|
+   @|com\powereclipse\jwrutilities\Main.java|316|319|Mod|class|net.minecraftforge.fml.common.Mod
+   @|com\powereclipse\jwrutilities\Main.java|320|325|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com\powereclipse\jwrutilities\Main.java|328|335|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
+   @|com\powereclipse\jwrutilities\Main.java|336|342|MOD_ID|field|com.powereclipse.jwrutilities.ModInfo|MOD_ID
+   @|com\powereclipse\jwrutilities\Main.java|344|348|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|com\powereclipse\jwrutilities\Main.java|351|358|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
+   @|com\powereclipse\jwrutilities\Main.java|359|367|MOD_NAME|field|com.powereclipse.jwrutilities.ModInfo|MOD_NAME
+   @|com\powereclipse\jwrutilities\Main.java|369|376|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com\powereclipse\jwrutilities\Main.java|379|386|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
+   @|com\powereclipse\jwrutilities\Main.java|387|400|VERSION_BUILD|field|com.powereclipse.jwrutilities.ModInfo|VERSION_BUILD
+   @|com\powereclipse\jwrutilities\Main.java|401|413|dependencies|method|net.minecraftforge.fml.common.Mod|dependencies|()Ljava/lang/String;
+   @|com\powereclipse\jwrutilities\Main.java|416|423|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
+   @|com\powereclipse\jwrutilities\Main.java|424|436|DEPENDENCIES|field|com.powereclipse.jwrutilities.ModInfo|DEPENDENCIES
+   @|com\powereclipse\jwrutilities\Main.java|438|448|updateJSON|method|net.minecraftforge.fml.common.Mod|updateJSON|()Ljava/lang/String;
+   @|com\powereclipse\jwrutilities\Main.java|451|458|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
+   @|com\powereclipse\jwrutilities\Main.java|459|469|UpdateJSON|field|com.powereclipse.jwrutilities.ModInfo|UpdateJSON
+   @|com\powereclipse\jwrutilities\Main.java|484|488|Main|class|com.powereclipse.jwrutilities.Main
+   @|com\powereclipse\jwrutilities\Main.java|660|671|ProxyCommon|class|com.powereclipse.jwrutilities.common.ProxyCommon
+   @|com\powereclipse\jwrutilities\Main.java|501|511|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy
+   @|com\powereclipse\jwrutilities\Main.java|512|522|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|com\powereclipse\jwrutilities\Main.java|577|587|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|com\powereclipse\jwrutilities\Main.java|660|671|ProxyCommon|class|com.powereclipse.jwrutilities.common.ProxyCommon
+   @|com\powereclipse\jwrutilities\Main.java|672|677|proxy|field|com.powereclipse.jwrutilities.Main|proxy|
+   @|com\powereclipse\jwrutilities\Main.java|742|746|Main|class|com.powereclipse.jwrutilities.Main
+   @|com\powereclipse\jwrutilities\Main.java|695|707|Mod.Instance|class|net.minecraftforge.fml.common.Mod.Instance
+   @|com\powereclipse\jwrutilities\Main.java|742|746|Main|class|com.powereclipse.jwrutilities.Main
+   @|com\powereclipse\jwrutilities\Main.java|747|755|instance|field|com.powereclipse.jwrutilities.Main|instance|
+   @|com\powereclipse\jwrutilities\Main.java|762|766|Main|class|com.powereclipse.jwrutilities.Main
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\powereclipse\jwrutilities\Main.java|850|855|event|param|com.powereclipse.jwrutilities.Main|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com\powereclipse\jwrutilities\Main.java|786|798|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\powereclipse\jwrutilities\Main.java|815|822|preInit|method|com.powereclipse.jwrutilities.Main|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\powereclipse\jwrutilities\Main.java|824|849|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|com\powereclipse\jwrutilities\Main.java|875|880|proxy|field|com.powereclipse.jwrutilities.Main|proxy
+      @|com\powereclipse\jwrutilities\Main.java|881|888|preInit|method|com.powereclipse.jwrutilities.common.ProxyCommon|preInit|()V
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
 Class End  : com.powereclipse.jwrutilities.Main
 endProcessing "com\powereclipse\jwrutilities\Main.java"
 
 startProcessing "com\powereclipse\jwrutilities\ModInfo.java" md5: e6d45818760994f9d9266b2af124b769
+Cache Hit!
 @|com\powereclipse\jwrutilities\ModInfo.java|8|37|com.powereclipse.jwrutilities|package|com.powereclipse.jwrutilities|(file)
 Class Start: com.powereclipse.jwrutilities.ModInfo
    @|com\powereclipse\jwrutilities\ModInfo.java|53|60|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
@@ -81,6 +87,7 @@ Class End  : com.powereclipse.jwrutilities.ModInfo
 endProcessing "com\powereclipse\jwrutilities\ModInfo.java"
 
 startProcessing "com\powereclipse\jwrutilities\client\ProxyClient.java" md5: 2d993409e49aef55fcd5c1e2b8a9060a
+Cache Hit!
 @|com\powereclipse\jwrutilities\client\ProxyClient.java|8|44|com.powereclipse.jwrutilities.client|package|com.powereclipse.jwrutilities.client|(file)
 Class Start: com.powereclipse.jwrutilities.client.ProxyClient
    @|com\powereclipse\jwrutilities\client\ProxyClient.java|118|129|ProxyClient|class|com.powereclipse.jwrutilities.client.ProxyClient
@@ -93,6 +100,7 @@ Class End  : com.powereclipse.jwrutilities.client.ProxyClient
 endProcessing "com\powereclipse\jwrutilities\client\ProxyClient.java"
 
 startProcessing "com\powereclipse\jwrutilities\common\ProxyCommon.java" md5: 6595d62d034a578e674db2a33b190527
+Cache Hit!
 @|com\powereclipse\jwrutilities\common\ProxyCommon.java|8|44|com.powereclipse.jwrutilities.common|package|com.powereclipse.jwrutilities.common|(file)
 Class Start: com.powereclipse.jwrutilities.common.ProxyCommon
    @|com\powereclipse\jwrutilities\common\ProxyCommon.java|60|71|ProxyCommon|class|com.powereclipse.jwrutilities.common.ProxyCommon

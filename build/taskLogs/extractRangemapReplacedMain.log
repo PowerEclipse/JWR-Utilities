@@ -1,14 +1,17 @@
 Symbol range map extraction starting
 Processing 4 files
-startProcessing "com\powereclipse\jwrutilities\Main.java" md5: 1db528e3da5ae00f73cd9ebc542f6b47
+startProcessing "com\powereclipse\jwrutilities\Main.java" md5: 817948e1a32fea81b3826e10de250364
 endProcessing "com\powereclipse\jwrutilities\Main.java"
 
 startProcessing "com\powereclipse\jwrutilities\ModInfo.java" md5: e6d45818760994f9d9266b2af124b769
+Cache Hit!
 endProcessing "com\powereclipse\jwrutilities\ModInfo.java"
 
 startProcessing "com\powereclipse\jwrutilities\client\ProxyClient.java" md5: 2d993409e49aef55fcd5c1e2b8a9060a
+Cache Hit!
 endProcessing "com\powereclipse\jwrutilities\client\ProxyClient.java"
 
 startProcessing "com\powereclipse\jwrutilities\common\ProxyCommon.java" md5: 6595d62d034a578e674db2a33b190527
+Cache Hit!
 endProcessing "com\powereclipse\jwrutilities\common\ProxyCommon.java"
 
