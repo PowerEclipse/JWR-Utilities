@@ -1,0 +1,9 @@
+Symbol range map extraction starting
+Processing 2 files
+startProcessing "com\powereclipse\jwrutilities\Main.java" md5: d7f3fcea84f7d85ef822629feacd8978
+endProcessing "com\powereclipse\jwrutilities\Main.java"
+
+startProcessing "com\powereclipse\jwrutilities\ModInfo.java" md5: 7d897cf47fcae02f3ad8b70c908e242a
+Cache Hit!
+endProcessing "com\powereclipse\jwrutilities\ModInfo.java"
+
