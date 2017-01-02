@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jwrutilities",
+  "name": "JWR Utilities",
+  "description": "SOOOn",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "soooon",
+  "updateUrl": "",
+  "authorList": ["knoxhack"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

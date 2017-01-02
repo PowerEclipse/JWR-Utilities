@@ -1,0 +1,15 @@
+{
+  "homepage": "https://www.atlauncher.com/pack/JurassicWorldRevelations",
+  "promos": {
+    "1.10.2-latest": "1.1.4.6",
+    "1.10.2-recommended": "1.1.4.6",
+
+  },
+  "1.10.2": {
+    "1.1.4.6": "Update of MineTweaker"
+    "1.1.4.5": "Changed TheOneProbe to non optional mod"
+    "1.1.4.4": "Fixed Dynamic Lights"
+    "1.1.4.3": "Fixed Dynamic Lights"
+    "1.1.4.0": "Added mods and configs."
+  }
+}
