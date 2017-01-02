@@ -1,34 +1,43 @@
 Symbol range map extraction starting
-Processing 2 files
-startProcessing "com\powereclipse\jwrutilities\Main.java" md5: d7f3fcea84f7d85ef822629feacd8978
+Processing 4 files
+startProcessing "com\powereclipse\jwrutilities\Main.java" md5: 1db528e3da5ae00f73cd9ebc542f6b47
 @|com\powereclipse\jwrutilities\Main.java|8|37|com.powereclipse.jwrutilities|package|com.powereclipse.jwrutilities|(file)
 Class Start: com.powereclipse.jwrutilities.Main
-   @|com\powereclipse\jwrutilities\Main.java|84|87|Mod|class|net.minecraftforge.fml.common.Mod
-   @|com\powereclipse\jwrutilities\Main.java|88|93|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
-   @|com\powereclipse\jwrutilities\Main.java|96|103|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
-   @|com\powereclipse\jwrutilities\Main.java|104|110|MOD_ID|field|com.powereclipse.jwrutilities.ModInfo|MOD_ID
-   @|com\powereclipse\jwrutilities\Main.java|112|116|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
-   @|com\powereclipse\jwrutilities\Main.java|119|126|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
-   @|com\powereclipse\jwrutilities\Main.java|127|135|MOD_NAME|field|com.powereclipse.jwrutilities.ModInfo|MOD_NAME
-   @|com\powereclipse\jwrutilities\Main.java|137|144|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
-   @|com\powereclipse\jwrutilities\Main.java|147|154|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
-   @|com\powereclipse\jwrutilities\Main.java|155|168|VERSION_BUILD|field|com.powereclipse.jwrutilities.ModInfo|VERSION_BUILD
-   @|com\powereclipse\jwrutilities\Main.java|169|181|dependencies|method|net.minecraftforge.fml.common.Mod|dependencies|()Ljava/lang/String;
-   @|com\powereclipse\jwrutilities\Main.java|184|191|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
-   @|com\powereclipse\jwrutilities\Main.java|192|204|DEPENDENCIES|field|com.powereclipse.jwrutilities.ModInfo|DEPENDENCIES
-   @|com\powereclipse\jwrutilities\Main.java|206|216|updateJSON|method|net.minecraftforge.fml.common.Mod|updateJSON|()Ljava/lang/String;
-   @|com\powereclipse\jwrutilities\Main.java|219|226|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
-   @|com\powereclipse\jwrutilities\Main.java|227|237|UpdateJSON|field|com.powereclipse.jwrutilities.ModInfo|UpdateJSON
-   @|com\powereclipse\jwrutilities\Main.java|252|256|Main|class|com.powereclipse.jwrutilities.Main
-   @|com\powereclipse\jwrutilities\Main.java|464|468|Main|class|com.powereclipse.jwrutilities.Main
-   @|com\powereclipse\jwrutilities\Main.java|417|429|Mod.Instance|class|net.minecraftforge.fml.common.Mod.Instance
-   @|com\powereclipse\jwrutilities\Main.java|464|468|Main|class|com.powereclipse.jwrutilities.Main
-   @|com\powereclipse\jwrutilities\Main.java|469|477|instance|field|com.powereclipse.jwrutilities.Main|instance|
+   @|com\powereclipse\jwrutilities\Main.java|191|194|Mod|class|net.minecraftforge.fml.common.Mod
+   @|com\powereclipse\jwrutilities\Main.java|195|200|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com\powereclipse\jwrutilities\Main.java|203|210|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
+   @|com\powereclipse\jwrutilities\Main.java|211|217|MOD_ID|field|com.powereclipse.jwrutilities.ModInfo|MOD_ID
+   @|com\powereclipse\jwrutilities\Main.java|219|223|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|com\powereclipse\jwrutilities\Main.java|226|233|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
+   @|com\powereclipse\jwrutilities\Main.java|234|242|MOD_NAME|field|com.powereclipse.jwrutilities.ModInfo|MOD_NAME
+   @|com\powereclipse\jwrutilities\Main.java|244|251|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com\powereclipse\jwrutilities\Main.java|254|261|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
+   @|com\powereclipse\jwrutilities\Main.java|262|275|VERSION_BUILD|field|com.powereclipse.jwrutilities.ModInfo|VERSION_BUILD
+   @|com\powereclipse\jwrutilities\Main.java|276|288|dependencies|method|net.minecraftforge.fml.common.Mod|dependencies|()Ljava/lang/String;
+   @|com\powereclipse\jwrutilities\Main.java|291|298|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
+   @|com\powereclipse\jwrutilities\Main.java|299|311|DEPENDENCIES|field|com.powereclipse.jwrutilities.ModInfo|DEPENDENCIES
+   @|com\powereclipse\jwrutilities\Main.java|313|323|updateJSON|method|net.minecraftforge.fml.common.Mod|updateJSON|()Ljava/lang/String;
+   @|com\powereclipse\jwrutilities\Main.java|326|333|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
+   @|com\powereclipse\jwrutilities\Main.java|334|344|UpdateJSON|field|com.powereclipse.jwrutilities.ModInfo|UpdateJSON
+   @|com\powereclipse\jwrutilities\Main.java|359|363|Main|class|com.powereclipse.jwrutilities.Main
+   @|com\powereclipse\jwrutilities\Main.java|505|509|Main|class|com.powereclipse.jwrutilities.Main
+   @|com\powereclipse\jwrutilities\Main.java|376|386|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy
+   @|com\powereclipse\jwrutilities\Main.java|387|397|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|com\powereclipse\jwrutilities\Main.java|400|407|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
+   @|com\powereclipse\jwrutilities\Main.java|408|418|ServerSide|field|com.powereclipse.jwrutilities.ModInfo|ServerSide
+   @|com\powereclipse\jwrutilities\Main.java|420|430|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|com\powereclipse\jwrutilities\Main.java|433|440|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
+   @|com\powereclipse\jwrutilities\Main.java|441|451|ClientSide|field|com.powereclipse.jwrutilities.ModInfo|ClientSide
+   @|com\powereclipse\jwrutilities\Main.java|458|470|Mod.Instance|class|net.minecraftforge.fml.common.Mod.Instance
+   @|com\powereclipse\jwrutilities\Main.java|505|509|Main|class|com.powereclipse.jwrutilities.Main
+   @|com\powereclipse\jwrutilities\Main.java|510|518|instance|field|com.powereclipse.jwrutilities.Main|instance|
+   @|com\powereclipse\jwrutilities\Main.java|538|549|ProxyCommon|class|com.powereclipse.jwrutilities.common.ProxyCommon
+   @|com\powereclipse\jwrutilities\Main.java|538|549|ProxyCommon|class|com.powereclipse.jwrutilities.common.ProxyCommon
+   @|com\powereclipse\jwrutilities\Main.java|550|555|proxy|field|com.powereclipse.jwrutilities.Main|proxy|
 Class End  : com.powereclipse.jwrutilities.Main
 endProcessing "com\powereclipse\jwrutilities\Main.java"
 
-startProcessing "com\powereclipse\jwrutilities\ModInfo.java" md5: 7d897cf47fcae02f3ad8b70c908e242a
-Cache Hit!
+startProcessing "com\powereclipse\jwrutilities\ModInfo.java" md5: e6d45818760994f9d9266b2af124b769
 @|com\powereclipse\jwrutilities\ModInfo.java|8|37|com.powereclipse.jwrutilities|package|com.powereclipse.jwrutilities|(file)
 Class Start: com.powereclipse.jwrutilities.ModInfo
    @|com\powereclipse\jwrutilities\ModInfo.java|53|60|ModInfo|class|com.powereclipse.jwrutilities.ModInfo
@@ -55,23 +64,41 @@ Class Start: com.powereclipse.jwrutilities.ModInfo
    @|com\powereclipse\jwrutilities\ModInfo.java|465|477|DEPENDENCIES|field|com.powereclipse.jwrutilities.ModInfo|DEPENDENCIES|
    @|com\powereclipse\jwrutilities\ModInfo.java|528|534|String|class|java.lang.String
    @|com\powereclipse\jwrutilities\ModInfo.java|528|534|String|class|java.lang.String
-   @|com\powereclipse\jwrutilities\ModInfo.java|535|553|SERVER_PROXY_CLASS|field|com.powereclipse.jwrutilities.ModInfo|SERVER_PROXY_CLASS|
-   @|com\powereclipse\jwrutilities\ModInfo.java|556|568|PACKAGE_NAME|field|com.powereclipse.jwrutilities.ModInfo|PACKAGE_NAME
-   @|com\powereclipse\jwrutilities\ModInfo.java|571|577|MOD_ID|field|com.powereclipse.jwrutilities.ModInfo|MOD_ID
-   @|com\powereclipse\jwrutilities\ModInfo.java|626|632|String|class|java.lang.String
-   @|com\powereclipse\jwrutilities\ModInfo.java|626|632|String|class|java.lang.String
-   @|com\powereclipse\jwrutilities\ModInfo.java|633|651|CLIENT_PROXY_CLASS|field|com.powereclipse.jwrutilities.ModInfo|CLIENT_PROXY_CLASS|
-   @|com\powereclipse\jwrutilities\ModInfo.java|654|666|PACKAGE_NAME|field|com.powereclipse.jwrutilities.ModInfo|PACKAGE_NAME
-   @|com\powereclipse\jwrutilities\ModInfo.java|669|675|MOD_ID|field|com.powereclipse.jwrutilities.ModInfo|MOD_ID
-   @|com\powereclipse\jwrutilities\ModInfo.java|724|730|String|class|java.lang.String
-   @|com\powereclipse\jwrutilities\ModInfo.java|724|730|String|class|java.lang.String
-   @|com\powereclipse\jwrutilities\ModInfo.java|731|742|FINGERPRINT|field|com.powereclipse.jwrutilities.ModInfo|FINGERPRINT|
-   @|com\powereclipse\jwrutilities\ModInfo.java|786|792|String|class|java.lang.String
-   @|com\powereclipse\jwrutilities\ModInfo.java|786|792|String|class|java.lang.String
-   @|com\powereclipse\jwrutilities\ModInfo.java|793|803|UpdateJSON|field|com.powereclipse.jwrutilities.ModInfo|UpdateJSON|
+   @|com\powereclipse\jwrutilities\ModInfo.java|535|546|FINGERPRINT|field|com.powereclipse.jwrutilities.ModInfo|FINGERPRINT|
+   @|com\powereclipse\jwrutilities\ModInfo.java|590|596|String|class|java.lang.String
+   @|com\powereclipse\jwrutilities\ModInfo.java|590|596|String|class|java.lang.String
+   @|com\powereclipse\jwrutilities\ModInfo.java|597|607|UpdateJSON|field|com.powereclipse.jwrutilities.ModInfo|UpdateJSON|
+   @|com\powereclipse\jwrutilities\ModInfo.java|718|724|String|class|java.lang.String
+   @|com\powereclipse\jwrutilities\ModInfo.java|718|724|String|class|java.lang.String
+   @|com\powereclipse\jwrutilities\ModInfo.java|725|735|ServerSide|field|com.powereclipse.jwrutilities.ModInfo|ServerSide|
+   @|com\powereclipse\jwrutilities\ModInfo.java|814|820|String|class|java.lang.String
+   @|com\powereclipse\jwrutilities\ModInfo.java|814|820|String|class|java.lang.String
+   @|com\powereclipse\jwrutilities\ModInfo.java|821|831|ClientSide|field|com.powereclipse.jwrutilities.ModInfo|ClientSide|
    Method Start: ModInfo()V
-      @|com\powereclipse\jwrutilities\ModInfo.java|903|910|ModInfo|method|com.powereclipse.jwrutilities.ModInfo|ModInfo|()V
+      @|com\powereclipse\jwrutilities\ModInfo.java|899|906|ModInfo|method|com.powereclipse.jwrutilities.ModInfo|ModInfo|()V
    Method End: ModInfo()V
 Class End  : com.powereclipse.jwrutilities.ModInfo
 endProcessing "com\powereclipse\jwrutilities\ModInfo.java"
+
+startProcessing "com\powereclipse\jwrutilities\client\ProxyClient.java" md5: 2d993409e49aef55fcd5c1e2b8a9060a
+@|com\powereclipse\jwrutilities\client\ProxyClient.java|8|44|com.powereclipse.jwrutilities.client|package|com.powereclipse.jwrutilities.client|(file)
+Class Start: com.powereclipse.jwrutilities.client.ProxyClient
+   @|com\powereclipse\jwrutilities\client\ProxyClient.java|118|129|ProxyClient|class|com.powereclipse.jwrutilities.client.ProxyClient
+   @|com\powereclipse\jwrutilities\client\ProxyClient.java|138|149|ProxyCommon|class|com.powereclipse.jwrutilities.common.ProxyCommon
+   Method Start: preInit()V
+      @|com\powereclipse\jwrutilities\client\ProxyClient.java|162|170|Override|class|java.lang.Override
+      @|com\powereclipse\jwrutilities\client\ProxyClient.java|187|194|preInit|method|com.powereclipse.jwrutilities.common.ProxyCommon|preInit|()V
+   Method End: preInit()V
+Class End  : com.powereclipse.jwrutilities.client.ProxyClient
+endProcessing "com\powereclipse\jwrutilities\client\ProxyClient.java"
+
+startProcessing "com\powereclipse\jwrutilities\common\ProxyCommon.java" md5: 6595d62d034a578e674db2a33b190527
+@|com\powereclipse\jwrutilities\common\ProxyCommon.java|8|44|com.powereclipse.jwrutilities.common|package|com.powereclipse.jwrutilities.common|(file)
+Class Start: com.powereclipse.jwrutilities.common.ProxyCommon
+   @|com\powereclipse\jwrutilities\common\ProxyCommon.java|60|71|ProxyCommon|class|com.powereclipse.jwrutilities.common.ProxyCommon
+   Method Start: preInit()V
+      @|com\powereclipse\jwrutilities\common\ProxyCommon.java|99|106|preInit|method|com.powereclipse.jwrutilities.common.ProxyCommon|preInit|()V
+   Method End: preInit()V
+Class End  : com.powereclipse.jwrutilities.common.ProxyCommon
+endProcessing "com\powereclipse\jwrutilities\common\ProxyCommon.java"
 
