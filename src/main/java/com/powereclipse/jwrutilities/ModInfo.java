@@ -8,10 +8,10 @@ public class ModInfo {
     public static final String MINECRAFT_VERSION = "@MCVERSION@";
     public static final String FORGE_VERSION = "@FORGEVERSION@";
     public static final String DEPENDENCIES = "required-after:Forge";
-    public static final String SERVER_PROXY_CLASS = PACKAGE_NAME + MOD_ID + ".proxy.CommonProxy";
-    public static final String CLIENT_PROXY_CLASS = PACKAGE_NAME + MOD_ID + ".proxy.ClientProxy";
     public static final String FINGERPRINT = "@FINGERPRINT@";
     public static final String UpdateJSON =  "https://raw.githubusercontent.com/PowerEclipse/JWR-Utilities/master/update.json";
+    public static final String ServerSide = "com.powereclipse.jwrutilities.common.ProxyCommon";
+    public static final String ClientSide = "com.powereclipse.jwrutilities.client.ProxyClient";
 
     private ModInfo() {
 
